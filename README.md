@@ -86,7 +86,7 @@ to support sustainable international growth and long-term value creation.
 
 ### LinkedIn
 
-(Add your LinkedIn URL here)
+[(Add your LinkedIn URL here)](https://www.linkedin.com/in/eduardoambrosin/)
 
 ### GitHub
 
