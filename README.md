@@ -1,80 +1,78 @@
-# Hi, I'm Eduardo Ambrosin 👋
+# Eduardo Ambrosin
 
-Business Development | Strategic Partnerships | GTM Strategy | AI Applications
+### Business Development | Strategic Partnerships | GTM Strategy | AI Applications
 
 I build practical AI applications focused on revenue generation, commercial execution, lead qualification, outreach optimization and market expansion.
 
 ---
 
-## Featured Projects
+## Featured AI Business Development Projects
 
 ### AI Lead Qualification & Revenue Prioritization Platform
 
-Live Demo:
+Live Demo:  
 https://lead-qualification-scorer-eambrosin.streamlit.app/
 
-GitHub:
+GitHub:  
 https://github.com/Eambrosin/lead-qualification-scorer
 
-Features:
+Focus:
 
-* Lead scoring
-* Tier classification
-* Revenue prioritization
-* Executive dashboard
-* Account intelligence
-* AI-generated GTM recommendations
-* AI outreach generation
+- Lead scoring
+- Tier classification
+- Revenue prioritization
+- Executive account dashboard
+- Account intelligence
+- GTM recommendations
+- AI outreach generation
 
 ---
 
 ### AI Outreach Intelligence Platform
 
-Live Demo:
+Live Demo:  
 https://outreach-sequence-generator-7dcmglcxfnmszlodg8lqre.streamlit.app/
 
-GitHub:
+GitHub:  
 https://github.com/Eambrosin/outreach-sequence-generator
 
-Features:
+Focus:
 
-* Outreach prioritization
-* Revenue-at-risk analysis
-* Business development intelligence
-* AI outreach recommendations
-* Multi-step follow-up sequences
-* Commercial opportunity assessment
+- Outreach prioritization
+- Revenue-at-risk analysis
+- Business development intelligence
+- AI outreach recommendations
+- Multi-step follow-up sequences
+- Commercial opportunity assessment
 
 ---
 
-## Areas of Interest
+## Strategic Focus Areas
 
-* Business Development
-* Strategic Partnerships
-* Revenue Operations
-* GTM Strategy
-* International Expansion
-* AI Applications
-* Commercial Intelligence
+- Business Development
+- Strategic Partnerships
+- GTM Strategy
+- Revenue Operations
+- International Expansion
+- AI Workflow Automation
+- Commercial Intelligence
 
 ---
 
 ## Tech Stack
 
-* Python
-* Streamlit
-* Pandas
-* Plotly
-* OpenAI API
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- OpenAI API
 
 ---
 
 ## Connect
 
-GitHub:
-https://github.com/Eambrosin
+LinkedIn:  
+https://www.linkedin.com/in/eduardoambrosin/
 
-LinkedIn:
-(Add your LinkedIn URL here)
-
+GitHub:  
 https://github.com/Eambrosin
