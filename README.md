@@ -2,9 +2,9 @@
 
 ### Business Development | Strategic Partnerships | GTM Strategy | Revenue Operations | International Expansion | AI Applications
 
-I build AI-powered business applications that help commercial teams identify opportunities, prioritize revenue, improve outreach execution and accelerate strategic partnerships.
+I build AI-powered business applications that help organizations identify opportunities, prioritize revenue, improve commercial execution and scale strategic partnerships.
 
-My focus is on the intersection of:
+My work sits at the intersection of:
 
 * Business Development
 * Strategic Partnerships
@@ -17,7 +17,7 @@ My focus is on the intersection of:
 
 # AI Business Development Portfolio
 
-This portfolio consists of three AI-powered applications designed to support the commercial lifecycle:
+I am building a portfolio of AI-powered commercial intelligence applications designed to support the full business development lifecycle:
 
 ### 1. Opportunity Identification
 
@@ -31,7 +31,7 @@ How should teams engage those opportunities?
 
 Which partnerships should organizations prioritize?
 
-Together, these applications form a practical commercial intelligence suite for modern Business Development and Partnerships teams.
+Together, these applications form a practical AI-enabled toolkit for modern Business Development, Partnerships and GTM teams.
 
 ---
 
@@ -53,7 +53,6 @@ https://github.com/Eambrosin/lead-qualification-scorer
 * Tier Classification
 * Revenue Prioritization
 * Executive Account Dashboard
-* Multi-Lead Prioritization Engine
 * Lead Intelligence Workspace
 * AI Account Intelligence
 * AI Outreach Generation
@@ -109,9 +108,8 @@ https://github.com/Eambrosin/partnership-opportunity-finder
 * Regional Expansion Dashboard
 * Partner Portfolio Analysis
 * Executive Recommendation Center
-* Partnership Intelligence Workspace
 * AI Partnership Insights
-* Partnership Prioritization Engine
+* Partnership Intelligence Workspace
 
 ### Business Problem Solved
 
@@ -127,9 +125,8 @@ Helps organizations identify, evaluate and prioritize strategic partnership oppo
 * Revenue Operations
 * International Expansion
 * Commercial Intelligence
-* AI Workflow Automation
 * Partnership Strategy
-* Market Expansion
+* AI Workflow Automation
 
 ---
 
@@ -152,8 +149,8 @@ I am particularly interested in opportunities involving:
 * Strategic Partnerships
 * Business Development
 * GTM Strategy
-* Ecosystem Development
 * Revenue Operations
+* Ecosystem Development
 * International Growth
 * AI-Powered Commercial Systems
 
@@ -168,4 +165,3 @@ https://www.linkedin.com/in/eduardoambrosin/
 ### GitHub
 
 https://github.com/Eambrosin
-mbrosin
