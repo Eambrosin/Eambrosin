@@ -1,401 +1,1874 @@
-# Eduardo Ambrosin
+Eduardo Ambrosin
 
-### International Business Development · Strategic Partnerships · Market Expansion · Commercial Intelligence
+International Business Development · GTM · Strategic Partnerships · Commercial Intelligence · AI-Assisted Systems
 
-I work at the intersection of **international business, strategic partnerships, commercial execution and technology**.
+Brazilian lawyer turned international commercial professional, working across Business Development, strategic partnerships, market expansion and technology-enabled commercial execution.
 
-My background combines Business Development, B2B/B2G commercial strategy, international market expansion, cross-border operations and legal/business advisory.
+🌍 Brazil · Europe · MENA
+🗣 Portuguese · English · Italian · Spanish
+🌐 ambrosinlegaltrade.com
+💼 LinkedIn
 
-I use Python, data analysis and AI-assisted workflows to transform practical commercial problems into structured decision-support tools.
+Business first. Technology as leverage.
 
-> **Business first. Technology as leverage.**
+I build commercial intelligence tools around problems I have encountered in real Business Development environments:
+which opportunity to prioritize, how to engage it, which partnership makes sense, and how to approach international expansion.
 
-**Professional Website:**  
-https://www.ambrosinlegaltrade.com
+AI-Assisted Commercial Intelligence Portfolio
 
----
+My GitHub portfolio sits at the intersection of:
 
-## Commercial Intelligence Portfolio
+Business Development + Strategic Partnerships + GTM + International Expansion + Commercial Intelligence + AI-assisted workflows
 
-I am building a practical portfolio around the full Business Development lifecycle:
+The projects are not intended to replace commercial professionals.
 
-```text
+They are designed to make Business Development processes more:
+
+structured
+
+explainable
+
+repeatable
+
+measurable
+
+scalable
+
+easier to operationalize
+
+The underlying principle is simple:
+
+COMMERCIAL JUDGMENT
+        +
+STRUCTURED DATA
+        +
+EXPLAINABLE LOGIC
+        +
+AI ASSISTANCE
+        =
+BETTER BUSINESS DEVELOPMENT DECISIONS
+
+The Commercial Intelligence Lifecycle
+
+I am developing the portfolio around the practical lifecycle of international Business Development.
+
 IDENTIFY
 Opportunity Discovery
 
         ↓
 
 PRIORITIZE
-Lead Qualification & Revenue Prioritization
+Lead Qualification
+Revenue Prioritization
 
         ↓
 
 ENGAGE
-Adaptive Outreach Intelligence
+Adaptive Outreach
+Commercial Messaging
 
         ↓
 
 PARTNER
-Partnership Intelligence
+Strategic Partnership Intelligence
 
         ↓
 
 EXPAND
 Global Market Entry Intelligence
-```
+        │
+        └── IN DEVELOPMENT
 
-The objective is not to automate commercial judgment.
+The architecture is intentionally modular.
 
-It is to create **structured, explainable and reusable systems that help professionals make better commercial decisions**.
+Each stage addresses a different commercial question, while the outputs can progressively support the next stage.
 
----
+Current Portfolio Status
 
-# Featured Commercial Intelligence Applications
+Commercial Stage
 
-## 1. Lead Qualification & Revenue Prioritization
+Project
 
-**Repository:** `Eambrosin/lead-qualification-scorer`
+Status
 
-**Live application:**  
-https://lead-qualification-scorer-eambrosin.streamlit.app
+PRIORITIZE
 
-A commercial prioritization platform designed to help Business Development teams identify which leads and accounts deserve attention first.
+Lead Qualification & Revenue Prioritization
 
-### Core capabilities
+✅ Live
 
-- configurable lead scoring
-- revenue prioritization
-- tier classification
-- account intelligence
-- executive commercial dashboard
-- lead-level intelligence workspace
-- GTM recommendations
-- optional AI-assisted commercial insights
-- structured outreach handoff
+ENGAGE
 
-### Business question
+Adaptive Outreach Intelligence
 
-> **Which commercial opportunities deserve our attention and resources first?**
+✅ Live
 
----
+PARTNER
 
-## 2. Adaptive Outreach Intelligence
+Partnership Intelligence Platform
 
-**Repository:** `Eambrosin/outreach-sequence-generator`
+✅ Live
 
-**Live application:**  
-https://outreach-sequence-generator-7dcmglcxfnmszlodg8lqre.streamlit.app
+EXPAND
 
-A structured commercial engagement application designed to improve outreach prioritization, follow-up discipline and messaging strategy.
+Global Market Entry Intelligence
 
-### Core capabilities
+🚧 In Development
 
-- outreach prioritization
-- commercial engagement analysis
-- follow-up intelligence
-- opportunity assessment
-- revenue-risk visibility
-- multi-step sequences
-- structured messaging support
-- AI-assisted outreach generation
+METHODOLOGY
 
-### Business question
+BD Frameworks & Playbooks
 
-> **How should we engage each opportunity based on its commercial context?**
+✅ Public
 
----
+ECOSYSTEM
 
-## 3. Partnership Intelligence Platform
+AI Business Development Toolkit
 
-**Repository:** `Eambrosin/partnership-opportunity-finder`
+✅ Public
 
-**Live application:**  
-https://partnership-opportunity-finder-eambrosin.streamlit.app/
+01 — PRIORITIZE
 
-A configurable and explainable decision-support platform for evaluating and prioritizing strategic partnership opportunities.
+Lead Qualification & Revenue Prioritization
 
-### Core capabilities
+Repository:
+Eambrosin/lead-qualification-scorer
 
-- seven-dimension partnership scoring
-- configurable commercial weights
-- explainable score decomposition
-- partnership archetype classification
-- execution feasibility assessment
-- fit tiers and commercial priority
-- partnership model recommendations
-- regional partnership intelligence
-- strategic interpretation
-- partnership thesis generation
-- executive recommendation center
-- outreach handoff
-- downloadable opportunity briefs
+Live Application:
+Open the Streamlit app
 
-### Business question
+The commercial problem
 
-> **Which partnerships should we prioritize, why, and what should we do next?**
+Business Development teams often have more potential accounts than they have time to pursue.
 
----
+Yet prioritization is frequently based on:
 
-# Strategic Analysis & Market Expansion
+intuition
 
-Technology is only one part of my work.
+incomplete CRM data
 
-My broader portfolio also explores international commercial strategy, B2G environments and cross-border expansion.
+deal size alone
 
-## Cross-Border Market Expansion
+recent engagement alone
 
-**Repository:** `Eambrosin/Cross-Border-Market-Expansion`
+subjective salesperson judgment
 
-Research and analytical work focused on how:
+This can lead to valuable commercial resources being allocated to the wrong opportunities.
 
-- market conditions
-- economic trends
-- geopolitical context
-- regulatory environments
-- commercial positioning
+The business question
 
-can influence international expansion decisions.
+Which commercial opportunities deserve our attention and resources first — and why?
 
----
+What the application does
 
-## Government Procurement Intelligence
+The platform transforms lead and account information into a structured prioritization framework.
 
-**Repository:** `Eambrosin/Government-Procurement-Intelligence`
+It combines deterministic scoring with optional AI-assisted intelligence to help commercial teams understand:
 
-Exploration of technology and structured decision-making applied to:
+which opportunities deserve priority
 
-- public procurement
-- B2G opportunities
-- government-facing commercial strategy
-- operational efficiency
-- public-sector intelligence
+which accounts should be approached first
 
----
+what factors are driving the score
 
-# Professional Background
+where commercial potential exists
 
-My experience combines commercial, legal and international business environments.
+what next action may be appropriate
 
-Areas of experience include:
+Core capabilities
 
-- international Business Development
-- strategic partnerships
-- B2B and B2G commercial activity
-- renewable energy
-- international trade
-- commodities
-- procurement
-- real estate
-- legal and commercial advisory
-- public-sector environments
-- international market expansion
+configurable lead scoring
 
-I have worked across or with markets involving **Brazil, Europe and the Middle East**, with a particular interest in connecting organizations across different commercial, regulatory and cultural environments.
+weighted commercial criteria
 
-My professional work is also presented through:
+explainable scoring logic
 
-**Ambrosin Legal Trade**  
-https://www.ambrosinlegaltrade.com
+opportunity ranking
 
----
+revenue prioritization
 
-# How I Think About Commercial Technology
+lead tiers
 
-I do not approach AI or software as substitutes for Business Development professionals.
+account-level commercial intelligence
 
-I use them as tools for making commercial processes more:
+executive dashboard
 
-- **structured**
-- **explainable**
-- **repeatable**
-- **measurable**
-- **scalable**
+pipeline visibility
 
-A useful commercial system should help answer questions such as:
+commercial recommendations
 
-**Where should we expand?**
+optional AI-generated insights
 
-**Which opportunity deserves priority?**
+structured outreach handoff
 
-**Who should we approach?**
+Design principle
 
-**Why does this opportunity matter?**
+The commercial ranking does not need an LLM to determine whether one lead is objectively more attractive than another.
 
-**How should we engage?**
+The scoring logic remains structured and explainable.
 
-**Which partnership structure makes sense?**
+AI can instead augment the process through:
 
-**What is the next best commercial action?**
+research
 
-Technology should support those decisions — not obscure them.
+synthesis
 
----
+qualification rationale
 
-# Professional Focus
+contextual interpretation
 
-## Business Development
+outreach preparation
 
-- B2B commercial development
-- complex sales environments
-- opportunity qualification
-- revenue prioritization
-- pipeline development
-- commercial negotiations
+Role in the portfolio
 
-## Strategic Partnerships
+RAW LEADS
+    ↓
+COMMERCIAL SCORING
+    ↓
+PRIORITIZATION
+    ↓
+HIGH-VALUE OPPORTUNITIES
+    ↓
+OUTREACH INTELLIGENCE
 
-- channel partnerships
-- distribution
-- market-entry partners
-- strategic alliances
-- ecosystem development
-- institutional and B2G relationships
+This project represents the PRIORITIZE layer of the portfolio.
 
-## International Expansion
+02 — ENGAGE
 
-- cross-border market development
-- market-entry strategy
-- LATAM
-- Europe
-- MENA
-- international commercial operations
-- local partner identification
+Adaptive Outreach Intelligence
 
-## Commercial Intelligence
+Repository:
+Eambrosin/outreach-sequence-generator
 
-- scoring systems
-- decision-support models
-- portfolio prioritization
-- opportunity intelligence
-- explainable commercial logic
-- AI-assisted workflows
+Live Application:
+Open the Streamlit app
 
----
+The commercial problem
 
-# Technology as a Business Tool
+Traditional outreach automation usually treats prospects as if they were identical.
 
-My technical work is focused on practical commercial use cases.
+A static sequence might look like:
 
-### Current stack
+Day 1 → Email
+Day 3 → Follow-up
+Day 6 → LinkedIn
+Day 10 → Final Email
 
-- Python
-- Pandas
-- Streamlit
-- Plotly
-- REST APIs
-- CSV / structured data workflows
-- Git & GitHub
-- automated testing
-- GitHub Actions
-- AI / LLM APIs
-- prompt design
-- AI-assisted development
+But real Business Development is contextual.
 
-I am not building technology for technology's sake.
+The appropriate engagement strategy may depend on:
 
-The focus is on using lightweight software to solve recognizable **Business Development, Partnerships and Market Expansion problems**.
+commercial value
 
----
+account priority
 
-# Commercial Intelligence Architecture
+relationship strength
 
-Across the portfolio, I follow a common principle:
+previous interaction
 
-```text
+urgency
+
+language
+
+market
+
+decision-maker profile
+
+stage of the opportunity
+
+The business question
+
+How should we engage each opportunity based on its commercial context?
+
+What the application does
+
+Adaptive Outreach Intelligence converts commercial signals into structured engagement logic.
+
+Rather than creating only a message, the platform considers how an opportunity should be approached.
+
+Core capabilities
+
+opportunity prioritization
+
+adaptive outreach logic
+
+multi-step sequences
+
+dynamic cadence
+
+channel strategy
+
+relationship-aware engagement
+
+follow-up intelligence
+
+revenue-risk visibility
+
+commercial context analysis
+
+multilingual support
+
+AI-assisted messaging
+
+personalized outreach generation
+
+AI role
+
+This is where generative AI becomes especially useful.
+
+The deterministic commercial layer establishes context.
+
+AI can then help transform that context into:
+
+localized messaging
+
+personalized introductions
+
+follow-up variations
+
+meeting-request language
+
+account-specific communication
+
+multilingual commercial outreach
+
+Portfolio integration
+
+The project can receive structured information generated upstream by other applications.
+
+For example:
+
+LEAD QUALIFICATION
+        ↓
+Priority Tier
+Commercial Score
+Opportunity Context
+Recommended Action
+        ↓
+ADAPTIVE OUTREACH
+        ↓
+Cadence
+Channel
+Message
+Follow-up
+
+It can also receive partnership intelligence:
+
+PARTNERSHIP INTELLIGENCE
+        ↓
+Partnership Score
+Archetype
+Relationship Signal
+Recommended Action
+        ↓
+ADAPTIVE OUTREACH
+
+Role in the portfolio
+
+This project represents the ENGAGE layer.
+
+The objective is to move from:
+
+Who should we contact?
+
+to:
+
+How should we engage them?
+
+03 — PARTNER
+
+Partnership Intelligence Platform
+
+Repository:
+Eambrosin/partnership-opportunity-finder
+
+Live Application:
+Open the Streamlit app
+
+The commercial problem
+
+Strategic partnerships are often evaluated through fragmented information.
+
+Teams may consider:
+
+geography
+
+industry
+
+relationship strength
+
+market access
+
+potential revenue
+
+type of partner
+
+operational complexity
+
+But those variables are not always evaluated consistently.
+
+As a result, companies may spend significant time pursuing partnerships that appear attractive but have limited strategic or operational fit.
+
+The business question
+
+Which partnerships should we prioritize, why, and what should we do next?
+
+What the application does
+
+The Partnership Intelligence Platform converts partnership information into a configurable and explainable decision-support model.
+
+Each opportunity is evaluated through a structured scoring engine and then enriched with commercial interpretation.
+
+Partnership Intelligence dimensions
+
+The current model evaluates seven dimensions:
+
+Dimension
+
+Default Weight
+
+Region Fit
+
+15%
+
+Industry Alignment
+
+15%
+
+Market Access
+
+20%
+
+Relationship Strength
+
+15%
+
+Opportunity Value
+
+15%
+
+Partner Type Fit
+
+10%
+
+Execution Feasibility
+
+10%
+
+The weighting model can be changed dynamically.
+
+The engine automatically normalizes weights to preserve a consistent 100-point scoring system.
+
+Core capabilities
+
+configurable partnership scoring
+
+explainable weighted logic
+
+strategic preference configuration
+
+fit tiers
+
+commercial priority
+
+partnership archetypes
+
+execution feasibility
+
+partnership-model recommendations
+
+recommended next actions
+
+regional intelligence
+
+portfolio analytics
+
+executive recommendation center
+
+individual opportunity workspace
+
+partnership thesis generation
+
+expansion-potential analysis
+
+outreach handoff
+
+downloadable partnership briefs
+
+Explainability
+
+A central design principle of the project is that users should be able to understand why an opportunity received a particular score.
+
+The platform exposes:
+
+RAW COMPONENT SCORE
+        ↓
+ACTIVE WEIGHT
+        ↓
+WEIGHTED CONTRIBUTION
+        ↓
+FINAL PARTNERSHIP INTELLIGENCE SCORE
+
+This makes the commercial model:
+
+reproducible
+
+configurable
+
+auditable
+
+explainable
+
+Partnership archetypes
+
+The engine can classify opportunities into partnership motions such as:
+
+Strategic Alliance
+
+Channel Partnership
+
+Market Access Partnership
+
+Technology Alliance
+
+Operational Partnership
+
+Institutional Partnership
+
+Referral Partnership
+
+The objective is to move beyond the generic question:
+
+“Is this company a good partner?”
+
+toward:
+
+“What kind of partnership could create value with this organization?”
+
+From scoring to execution
+
+The project deliberately goes beyond ranking.
+
+For each opportunity, the platform can also generate:
+
+strategic interpretation
+
+partnership thesis
+
+recommended partnership model
+
+expansion assessment
+
+recommended next commercial action
+
+outreach handoff context
+
+Role in the portfolio
+
+POTENTIAL PARTNERS
+        ↓
+PARTNERSHIP SCORING
+        ↓
+ARCHETYPE
+        ↓
+STRATEGIC INTERPRETATION
+        ↓
+COMMERCIAL PRIORITY
+        ↓
+PARTNERSHIP MODEL
+        ↓
+NEXT ACTION
+
+This project represents the PARTNER layer of the Commercial Intelligence portfolio.
+
+04 — EXPAND
+
+Global Market Entry Intelligence
+
+🚧 In Development
+
+International market expansion is the next major layer planned for this portfolio.
+
+This project is intentionally not presented as a finished application yet.
+
+The objective is to build it only when the underlying methodology and product experience are mature enough to add genuine value to the portfolio.
+
+The commercial problem
+
+Companies evaluating international expansion face a different decision problem.
+
+The question is no longer simply:
+
+“Is this a promising lead or partner?”
+
+It becomes:
+
+“Which market should we enter, why, through which route, and under what commercial conditions?”
+
+Planned decision areas
+
+The future Market Entry Intelligence layer may evaluate factors such as:
+
+market attractiveness
+
+economic environment
+
+competitive intensity
+
+regulatory complexity
+
+commercial accessibility
+
+local partnership availability
+
+route-to-market options
+
+execution complexity
+
+geopolitical considerations
+
+market-entry cost
+
+expansion risk
+
+expected commercial potential
+
+Planned architecture
+
+TARGET MARKETS
+        ↓
+MARKET ATTRACTIVENESS
+        ↓
+COMMERCIAL ACCESS
+        ↓
+REGULATORY / EXECUTION COMPLEXITY
+        ↓
+PARTNER ECOSYSTEM
+        ↓
+ENTRY MODEL
+        ↓
+MARKET PRIORITIZATION
+        ↓
+EXPANSION RECOMMENDATION
+
+Why it remains in development
+
+The goal of this portfolio is not to maximize the number of repositories.
+
+Each project should represent a commercial problem in a meaningful and credible way.
+
+For that reason, the Market Expansion layer will remain In Development until it reaches the same standard of maturity as the current Lead Qualification, Outreach and Partnership applications.
+
+Frameworks & Playbooks
+
+Business Development Frameworks & Playbooks
+
+Repository:
+Eambrosin/bd-frameworks-and-playbooks
+
+Software is only useful when the underlying commercial thinking is sound.
+
+This repository documents practical frameworks around:
+
+Business Development
+
+GTM strategy
+
+strategic partnerships
+
+commercial prioritization
+
+market entry
+
+international expansion
+
+opportunity qualification
+
+commercial execution
+
+Why this repository exists
+
+The applications in this portfolio are not meant to be disconnected dashboards.
+
+They are software representations of commercial decision frameworks.
+
+The playbooks repository helps document the thinking behind those systems.
+
+Methodology layer
+
+COMMERCIAL EXPERIENCE
+        ↓
+FRAMEWORK
+        ↓
+DECISION LOGIC
+        ↓
+SOFTWARE MODEL
+        ↓
+USER INTERFACE
+        ↓
+COMMERCIAL ACTION
+
+AI Business Development Toolkit
+
+Repository:
+Eambrosin/AI-Business-Development-Toolkit
+
+This repository acts as the conceptual hub for the broader Commercial Intelligence ecosystem.
+
+Rather than replacing the individual projects, it explains how the components can work together.
+
+Ecosystem vision
+
+                COMMERCIAL INTELLIGENCE
+
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+        ▼                ▼                ▼
+
+   PRIORITIZE          ENGAGE           PARTNER
+ Lead Qualification   Outreach        Partnerships
+ Revenue Priority     Cadence         Archetypes
+ Account Intelligence Messaging       Strategic Fit
+
+        │                │                │
+        └────────────────┼────────────────┘
+                         │
+                         ▼
+
+                       EXPAND
+                 Market Entry Intelligence
+                     IN DEVELOPMENT
+
+Why I Build These Projects
+
+My primary professional background is not software engineering.
+
+It is business.
+
+I started building these tools because many commercial processes I encountered could be made clearer through structured logic.
+
+Examples include:
+
+selecting which opportunities deserve attention
+
+understanding why an account should be prioritized
+
+deciding how aggressively to pursue a prospect
+
+determining the most appropriate outreach approach
+
+comparing strategic partners
+
+structuring partnership hypotheses
+
+evaluating market-entry opportunities
+
+These are Business Development problems first.
+
+Technology is the mechanism used to explore better solutions.
+
+Professional Background
+
+My professional experience spans commercial, legal, public-sector and international environments.
+
+It includes work involving:
+
+International Business Development
+
+Strategic Partnerships
+
+GTM
+
+B2B
+
+B2G
+
+International Trade
+
+Renewable Energy
+
+Procurement
+
+Commodities
+
+Real Estate
+
+Legal Advisory
+
+Commercial Advisory
+
+Market Expansion
+
+Cross-Border Operations
+
+Legal & Commercial Foundation
+
+I am a Brazilian lawyer and have worked with business and commercial matters in addition to broader commercial activities.
+
+That legal background influences how I approach Business Development.
+
+Commercial opportunities do not exist independently from:
+
+contracts
+
+risk
+
+regulation
+
+counterparties
+
+negotiation structures
+
+compliance
+
+execution
+
+This perspective is particularly relevant in international environments where the commercial and legal dimensions frequently overlap.
+
+Experience Across Different Business Environments
+
+My career has included experience across very different operating contexts.
+
+That includes:
+
+Public Sector & Procurement
+
+Experience involving public procurement and government-facing environments.
+
+This provided exposure to:
+
+formal procurement processes
+
+institutional negotiation
+
+documentation
+
+compliance
+
+large operational contracts
+
+B2G environments
+
+Renewable Energy
+
+Commercial experience in the solar-energy sector, including:
+
+Business Development
+
+sales
+
+commercial strategy
+
+photovoltaic equipment
+
+international equipment sourcing
+
+imports
+
+supplier relationships
+
+International sourcing included equipment originating primarily from China as well as other markets.
+
+International Trade
+
+Experience with cross-border commercial activity and international trade.
+
+Areas of interest and exposure include:
+
+commodities
+
+international suppliers
+
+buyers
+
+commercial intermediaries
+
+cross-border negotiation
+
+market access
+
+transaction structures
+
+Real Estate
+
+Commercial experience in real estate environments in different markets, including international exposure.
+
+This contributed to experience in:
+
+consultative sales
+
+high-value transactions
+
+client qualification
+
+international customers
+
+relationship development
+
+commercial negotiation
+
+International Business Development
+
+My broader professional focus increasingly converged around:
+
+Business Development
+
+market-entry strategy
+
+international expansion
+
+strategic partnerships
+
+cross-border commercial development
+
+relationship-driven sales
+
+GTM
+
+International Perspective
+
+My professional and personal trajectory has involved different markets and business environments across:
+
+LATAM
+
+Especially Brazil, including experience in:
+
+commercial operations
+
+B2B
+
+B2G
+
+public-sector environments
+
+renewable energy
+
+legal and business advisory
+
+Europe
+
+Current professional focus includes European commercial environments, particularly around:
+
+international Business Development
+
+strategic partnerships
+
+logistics
+
+energy
+
+trade
+
+market expansion
+
+MENA
+
+Previous professional exposure in the Middle East includes commercial activity and experience in the UAE market.
+
+This contributes to a broader perspective on:
+
+cross-cultural negotiation
+
+international customers
+
+market-entry dynamics
+
+international commercial relationships
+
+Geographic Focus
+
+LATAM
+  ↕
+EUROPE
+  ↕
+MENA
+
+A recurring theme in my professional interests is connecting opportunities, companies and commercial relationships across these markets.
+
+Professional Focus
+
+International Business Development
+
+Areas of interest include:
+
+pipeline development
+
+opportunity qualification
+
+account prioritization
+
+B2B sales
+
+relationship development
+
+commercial negotiation
+
+international customers
+
+revenue growth
+
+GTM Strategy
+
+I am particularly interested in the operational side of go-to-market strategy:
+
+target-market definition
+
+Ideal Customer Profile
+
+commercial segmentation
+
+market prioritization
+
+lead prioritization
+
+outreach strategy
+
+route-to-market
+
+partner channels
+
+market-entry execution
+
+Strategic Partnerships
+
+Areas include:
+
+strategic alliances
+
+channel partnerships
+
+distribution
+
+referral partnerships
+
+market-entry partners
+
+technology partnerships
+
+institutional partnerships
+
+ecosystem development
+
+co-selling
+
+local representation
+
+International Expansion
+
+Areas include:
+
+market evaluation
+
+cross-border Business Development
+
+market-entry strategy
+
+partner identification
+
+local execution
+
+regulatory context
+
+route-to-market
+
+regional commercial strategy
+
+Commercial Intelligence
+
+This is the technology-enabled layer connecting the portfolio.
+
+Areas include:
+
+commercial scoring
+
+prioritization models
+
+opportunity intelligence
+
+structured decision support
+
+portfolio analytics
+
+explainable logic
+
+commercial recommendations
+
+AI-assisted workflows
+
+How I Think About AI
+
+I do not believe AI should automatically replace commercial judgment.
+
+There are areas where deterministic models are more appropriate.
+
+For example:
+
+SCORING
+RANKING
+THRESHOLDS
+WEIGHTING
+CLASSIFICATION
+
+These benefit from being:
+
+transparent
+
+reproducible
+
+auditable
+
+configurable
+
+Where AI Adds More Value
+
+Generative AI can then operate on top of the structured commercial context.
+
+Examples include:
+
+company research
+
+account summaries
+
+opportunity interpretation
+
+partnership hypotheses
+
+outreach personalization
+
+multilingual communication
+
+meeting preparation
+
+market research
+
+commercial synthesis
+
+Hybrid architecture
+
+The approach used across the portfolio can be summarized as:
+
+STRUCTURED COMMERCIAL LOGIC
+            +
+DETERMINISTIC SCORING
+            +
+DATA ANALYSIS
+            +
+AI ASSISTANCE
+            +
+HUMAN JUDGMENT
+
+Explainability Before Automation
+
+One principle increasingly guides the projects:
+
+If a commercial decision materially affects prioritization, the user should be able to understand why the system produced it.
+
+This is particularly important when software is used to influence:
+
+allocation of sales resources
+
+account priority
+
+partnership priority
+
+follow-up intensity
+
+market-entry strategy
+
+For that reason, explainability is becoming a common design principle across the portfolio.
+
+From Dashboard to Decision Support
+
+The goal is not merely to produce dashboards.
+
+A dashboard describes what is happening.
+
+A decision-support system should help answer:
+
+WHAT IS HAPPENING?
+        ↓
+WHY DOES IT MATTER?
+        ↓
+WHAT SHOULD WE PRIORITIZE?
+        ↓
+WHAT SHOULD WE DO NEXT?
+
+This distinction guides the evolution of the applications.
+
+Commercial Intelligence Architecture
+
+Across the portfolio, I increasingly use a common architecture:
+
 BUSINESS DATA
       ↓
+INPUT VALIDATION
+      ↓
+NORMALIZATION
+      ↓
 STRUCTURED COMMERCIAL LOGIC
+      ↓
+SCORING / CLASSIFICATION
       ↓
 EXPLAINABLE ANALYSIS
       ↓
 PRIORITIZATION
       ↓
-COMMERCIAL RECOMMENDATION
+COMMERCIAL INTERPRETATION
+      ↓
+RECOMMENDED ACTION
       ↓
 HUMAN DECISION
       ↓
 EXECUTION
-```
 
-Where AI is useful, it can enhance:
+Human-in-the-Loop by Design
 
-- research
-- synthesis
-- account intelligence
-- partnership hypotheses
-- messaging
-- localization
-- meeting preparation
+The applications are designed as decision-support systems rather than autonomous commercial decision makers.
 
-But core commercial rankings should remain transparent whenever possible.
+The intended flow is:
 
----
-
-# What I Am Building Toward
-
-The long-term objective is a connected **Commercial Intelligence toolkit** covering:
-
-```text
-Opportunity Discovery
+SYSTEM
+analyzes structured signals
         ↓
+SYSTEM
+produces intelligence
+        ↓
+PROFESSIONAL
+reviews context
+        ↓
+PROFESSIONAL
+makes the commercial decision
+        ↓
+TEAM
+executes
+
+This keeps accountability and judgment with the commercial professional.
+
+Technology as a Business Tool
+
+I am learning and using technology primarily to solve commercial problems.
+
+The current stack includes:
+
+Programming
+
+Python
+
+Data
+
+Pandas
+
+CSV
+
+structured datasets
+
+data normalization
+
+Applications
+
+Streamlit
+
+Visualization
+
+Plotly
+
+APIs
+
+REST APIs
+
+LLM APIs
+
+Development
+
+Git
+
+GitHub
+
+automated testing
+
+Pytest
+
+GitHub Actions
+
+AI
+
+LLM integration
+
+prompt design
+
+AI-assisted development
+
+structured AI outputs
+
+multilingual generation
+
+What I Am Not Trying to Become
+
+This portfolio is not intended to reposition me as a traditional software engineer.
+
+Software development is not the central professional story.
+
+The central story is:
+
+BUSINESS DEVELOPMENT
+        +
+INTERNATIONAL EXPERIENCE
+        +
+COMMERCIAL STRATEGY
+        +
+STRUCTURED THINKING
+        +
+TECHNOLOGY
+
+The technical work demonstrates an ability to understand how modern tools can improve commercial execution.
+
+What the Portfolio Is Intended to Demonstrate
+
+Commercial Understanding
+
+The applications begin with real Business Development problems.
+
+Structured Thinking
+
+Commercial judgment can often be translated into:
+
+factors
+
+weights
+
+thresholds
+
+stages
+
+classifications
+
+workflows
+
+Technical Adaptability
+
+Modern Business Development professionals increasingly benefit from being able to understand and work with:
+
+data
+
+automation
+
+APIs
+
+AI
+
+lightweight software
+
+International Perspective
+
+Commercial models often change depending on:
+
+geography
+
+culture
+
+regulation
+
+channel structure
+
+market maturity
+
+relationship dynamics
+
+International context therefore matters.
+
+Execution Orientation
+
+The goal is not simply to analyze.
+
+The systems are designed to move toward:
+
+What should happen next?
+
+Commercial Questions Behind the Portfolio
+
+The entire portfolio can be understood through a sequence of questions.
+
+Qualification
+
+Is this opportunity worth pursuing?
+
+Prioritization
+
+Which opportunity deserves attention first?
+
+Outreach
+
+How should we engage this account?
+
+Partnerships
+
+What type of partnership could create value?
+
+Market Expansion
+
+Which market should we enter, and how?
+
+Portfolio Evolution
+
+The projects are progressively moving through three stages.
+
+Stage 1 — Tools
+
+Solve individual commercial problems.
+
+Examples:
+
+lead scoring
+
+outreach generation
+
+partnership evaluation
+
+Stage 2 — Intelligence Systems
+
+Combine:
+
+data
+
+scoring
+
+explainability
+
+interpretation
+
+recommendation
+
+Stage 3 — Connected Commercial Intelligence
+
+Allow information to flow between systems.
+
+Example:
+
+LEAD INTELLIGENCE
+        ↓
+OUTREACH INTELLIGENCE
+        ↓
+PARTNERSHIP INTELLIGENCE
+        ↓
+MARKET ENTRY INTELLIGENCE
+
+The portfolio is currently moving from Stage 2 toward Stage 3.
+
+Development Philosophy
+
+I prefer building small systems that solve identifiable commercial problems rather than large applications without a clear operational purpose.
+
+The development process generally follows:
+
+BUSINESS PROBLEM
+        ↓
+COMMERCIAL FRAMEWORK
+        ↓
+MINIMUM DATA MODEL
+        ↓
+DECISION LOGIC
+        ↓
+APPLICATION
+        ↓
+TEST
+        ↓
+REFINE
+
+Current Development Priorities
+
+The current portfolio focus is:
+
+1. Strengthen Lead Intelligence
+
+Continue improving qualification, explainability and revenue prioritization.
+
+2. Strengthen Outreach Intelligence
+
+Improve the connection between commercial context and engagement strategy.
+
+3. Strengthen Partnership Intelligence
+
+Develop increasingly useful models for strategic partnership evaluation.
+
+4. Connect the Systems
+
+Improve handoffs between:
+
+PRIORITIZE
+    ↓
+ENGAGE
+    ↓
+PARTNER
+
+5. Develop Market Entry Intelligence
+
+Build the future EXPAND layer only when the framework is sufficiently robust.
+
+Market Entry Intelligence — Development Direction
+
+The future market-entry layer is particularly relevant to my broader professional background.
+
+It is intended to explore questions involving:
+
+international market selection
+
+route-to-market
+
+local partners
+
+regulatory complexity
+
+commercial attractiveness
+
+market-entry risk
+
+international expansion strategy
+
+The project remains deliberately marked:
+
+🚧 IN DEVELOPMENT
+
+rather than being presented as a finished capability.
+
+Business Development Frameworks
+
+Technology does not replace commercial methodology.
+
+For that reason, the portfolio also includes non-application work around Business Development frameworks.
+
+The public repository:
+
+bd-frameworks-and-playbooks
+
+covers areas such as:
+
+GTM
+
+partnerships
+
+market entry
+
+commercial prioritization
+
+international expansion
+
+The objective is to make the underlying commercial thinking visible alongside the software.
+
+Integrated Toolkit
+
+The repository:
+
+AI-Business-Development-Toolkit
+
+acts as a central entry point into the ecosystem.
+
+Its role is to show how separate projects can become part of a common Commercial Intelligence architecture.
+
+Repository Map
+
+Core Applications
+
 Lead Qualification
+
+lead-qualification-scorer
+
+Purpose: prioritize commercial opportunities.
+
+Outreach
+
+outreach-sequence-generator
+
+Purpose: determine how prioritized opportunities should be engaged.
+
+Partnerships
+
+partnership-opportunity-finder
+
+Purpose: evaluate strategic partnership opportunities.
+
+Methodology
+
+Business Development Frameworks
+
+bd-frameworks-and-playbooks
+
+Purpose: document the commercial frameworks behind the applications.
+
+Ecosystem
+
+AI Business Development Toolkit
+
+AI-Business-Development-Toolkit
+
+Purpose: connect the individual tools into a broader Commercial Intelligence vision.
+
+Future Layer
+
+Global Market Entry Intelligence
+
+Status: 🚧 In Development
+
+Purpose: support international market prioritization and market-entry decisions.
+
+Example End-to-End Commercial Workflow
+
+A future connected workflow could operate like this:
+
+01
+COMPANY / ACCOUNT DATA
         ↓
-Revenue Prioritization
+
+02
+LEAD QUALIFICATION
         ↓
-Commercial Outreach
+Score
+Tier
+Revenue Potential
         ↓
-Strategic Partnerships
+
+03
+COMMERCIAL PRIORITY
         ↓
-Market Entry
+
+04
+OUTREACH INTELLIGENCE
         ↓
-International Expansion
-```
+Cadence
+Channel
+Message
+        ↓
 
-Rather than isolated applications, the projects are designed to explore how information can move through the entire commercial lifecycle.
+05
+RELATIONSHIP DEVELOPMENT
+        ↓
 
----
+06
+PARTNERSHIP INTELLIGENCE
+        ↓
+Fit
+Archetype
+Model
+Next Action
+        ↓
 
-# Selected Areas of Interest
+07
+MARKET ENTRY INTELLIGENCE
+        ↓
+Target Market
+Entry Model
+Local Ecosystem
+        ↓
 
-- International Business Development
-- Strategic Partnerships
-- GTM Strategy
-- International Expansion
-- Commercial Intelligence
-- B2B & B2G
-- Partnership Strategy
-- Revenue Operations
-- Market Entry
-- Cross-Border Trade
-- AI Applications for Business
-- Commercial Workflow Automation
+08
+COMMERCIAL EXECUTION
 
----
+Business Development + Technology
 
-# Languages
+The intersection I find most interesting is not:
 
-**Portuguese · English · Italian · Spanish**
+BUSINESS
+VS
+TECHNOLOGY
 
----
+It is:
 
-# Connect
+BUSINESS
+        +
+TECHNOLOGY
 
-### Professional Website
+The commercial professional increasingly has access to tools capable of improving:
 
-https://www.ambrosinlegaltrade.com
+research
 
-### LinkedIn
+prioritization
 
-https://linkedin.com/in/eduardoambrosin
+analysis
 
-### GitHub
+communication
 
-https://github.com/Eambrosin
+execution
 
----
+The challenge is using them without losing judgment, context and accountability.
 
-## Closing Thought
+International Commercial Perspective
 
-The most interesting application of AI in Business Development is not replacing the commercial professional.
+International Business Development adds additional complexity to commercial decisions.
 
-It is giving that professional **better information, better structure and better tools for making decisions**.professional **better information, better structure and better tools for making decisions**.
+A strategy effective in one market may fail in another because of differences in:
+
+regulation
+
+culture
+
+language
+
+buying processes
+
+commercial channels
+
+relationship expectations
+
+market maturity
+
+local competition
+
+This is one reason the longer-term portfolio extends naturally toward Market Entry Intelligence.
+
+Selected Professional Themes
+
+My work and current interests consistently converge around:
+
+Commercial Growth
+
+Business Development
+
+B2B
+
+pipeline
+
+revenue
+
+sales strategy
+
+Partnerships
+
+alliances
+
+channels
+
+distribution
+
+representation
+
+referrals
+
+ecosystems
+
+GTM
+
+segmentation
+
+positioning
+
+ICP
+
+route-to-market
+
+market entry
+
+International Business
+
+Europe
+
+LATAM
+
+MENA
+
+cross-border trade
+
+international expansion
+
+Commercial Intelligence
+
+scoring
+
+prioritization
+
+decision support
+
+analytics
+
+AI-assisted workflows
+
+Languages
+
+Portuguese
+
+Native
+
+English
+
+Professional working proficiency
+
+Italian
+
+Professional working proficiency
+
+Spanish
+
+Professional working proficiency
+
+Professional Website
+
+Ambrosin Legal Trade
+
+🌐 https://www.ambrosinlegaltrade.com
+
+The website represents my broader professional activity around:
+
+international business
+
+legal and commercial advisory
+
+international trade
+
+business development
+
+cross-border commercial relationships
+
+It complements this GitHub portfolio by providing the broader professional context behind the technical and Commercial Intelligence projects.
+
+Connect
+
+Professional Website
+
+🌐 ambrosinlegaltrade.com
+
+LinkedIn
+
+💼 linkedin.com/in/eduardoambrosin
+
+GitHub
+
+💻 github.com/Eambrosin
+
+Current Positioning
+
+INTERNATIONAL BUSINESS DEVELOPMENT
+                │
+                ├── GTM
+                │
+                ├── STRATEGIC PARTNERSHIPS
+                │
+                ├── MARKET EXPANSION
+                │
+                ├── COMMERCIAL INTELLIGENCE
+                │
+                └── AI-ASSISTED SYSTEMS
+
+Portfolio Principle
+
+The goal is not to build the largest number of applications.
+
+The goal is to progressively build a coherent set of tools around the decisions that actually matter in Business Development.
+
+WHAT SHOULD WE PURSUE?
+        ↓
+WHO SHOULD WE PRIORITIZE?
+        ↓
+HOW SHOULD WE ENGAGE?
+        ↓
+WHO SHOULD WE PARTNER WITH?
+        ↓
+WHERE SHOULD WE EXPAND?
+        ↓
+WHAT SHOULD WE DO NEXT?
+
+Closing Perspective
+
+I believe the most valuable application of AI in Business Development is not removing the commercial professional from the process.
+
+It is helping that professional operate with:
+
+bette
