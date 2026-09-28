@@ -13,7 +13,7 @@
 
 > ## Business first. Technology as leverage.
 >
-> I build practical Commercial Intelligence tools because structured data, explainable logic and AI can improve how Business Development teams **qualify opportunities, prioritize revenue, engage prospects and evaluate partnerships**.
+> I build practical Commercial Intelligence tools because structured data, explainable logic and AI can improve how Business Development teams **discover target accounts, qualify opportunities, prioritize revenue, engage prospects and evaluate partnerships**.
 
 My primary background is **commercial**, not software engineering. This GitHub shows how I apply technology to real Business Development problems.
 
@@ -28,7 +28,34 @@ My primary background is **commercial**, not software engineering. This GitHub s
 | **USD 1.8M** | Total revenue generated through Seleto Solar |
 | **1,000+** | People employed cumulatively across seven years of multi-site operations |
 | **4 business languages** | Portuguese · English · Italian · Spanish |
-| **3 live applications** | Commercial Intelligence tools built around real BD workflows |
+| **3 live applications + 1 discovery MVP** | Commercial Intelligence tools built around real BD workflows |
+
+---
+
+# Commercial Intelligence Portfolio
+
+## 00 — IDENTIFY
+
+### [Opportunity Discovery Intelligence](https://github.com/Eambrosin/AI-Business-Development-Toolkit/tree/main/opportunity-discovery-intelligence)
+
+[![Opportunity Discovery CI](https://github.com/Eambrosin/AI-Business-Development-Toolkit/actions/workflows/opportunity-discovery-ci.yml/badge.svg)](https://github.com/Eambrosin/AI-Business-Development-Toolkit/actions/workflows/opportunity-discovery-ci.yml)
+
+**MVP — deployment pending.**
+
+A configurable, evidence-aware target-account discovery application that adapts lead generation to a specific market profile.
+
+**Core capabilities**
+- target industry, geography and business-model configuration
+- required and excluded keyword logic
+- company-size preferences
+- sample, CSV and optional public-web discovery
+- explainable Discovery Score
+- separate Confidence Score
+- evidence preservation and unknown-information tracking
+- qualification handoff template
+- optional evidence-aware AI brief
+
+**Business question:** *Which companies should enter the commercial pipeline — and what evidence supports that decision?*
 
 ---
 
