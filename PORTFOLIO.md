@@ -1,46 +1,142 @@
-# BD & Partnerships Portfolio — Eduardo Ambrosin
+# Business Development & Commercial Intelligence Portfolio — Eduardo Ambrosin
 
-## The Commercial Stack I Built
+A practical portfolio connecting **Business Development, Strategic Partnerships, GTM, International Trade and AI-assisted Commercial Intelligence**.
 
-Three tools that cover the full BD motion:
-from lead identification → outreach → partner expansion.
+The projects are designed around a simple principle:
 
----
+> **Business first. Technology as leverage.**
 
-### 1. Lead Qualification Scorer
-**Repo:** [lead-qualification-scorer](link)
-**Demo:** [live link]
-**Problem solved:** Raw lead lists with no prioritization
-**Output:** Scored, tiered, CRM-ready lead lists
+They translate commercial judgment into structured, explainable workflows that help prioritize opportunities, improve outreach and support partnership decisions.
 
 ---
 
-### 2. Outreach Sequence Generator
-**Repo:** [outreach-sequence-generator](link)
-**Demo:** [live link]
-**Problem solved:** Outreach written from zero every time
-**Output:** Personalized sequences based on ICP + signal data
+## 1. Lead Qualification & Revenue Prioritization
+
+**Repository:** [Eambrosin/lead-qualification-scorer](https://github.com/Eambrosin/lead-qualification-scorer)  
+**Live application:** [Launch on Streamlit](https://lead-qualification-scorer-eambrosin.streamlit.app/)
+
+**Commercial problem:** teams often have more opportunities than they can pursue effectively.
+
+**What it does:**
+- configurable ICP scoring
+- explainable qualification
+- revenue prioritization
+- priority tiers
+- recommended next actions
+- executive pipeline visibility
+- optional AI-assisted account intelligence
+
+**Role in the portfolio:** **PRIORITIZE**
 
 ---
 
-### 3. Partnership Opportunity Finder
-**Repo:** [partnership-opportunity-finder](link)
-**Demo:** [live link]
-**Problem solved:** Partner mapping done via gut instinct
-**Output:** Scored partner candidates with strategic rationale
+## 2. Adaptive Outreach Intelligence
+
+**Repository:** [Eambrosin/outreach-sequence-generator](https://github.com/Eambrosin/outreach-sequence-generator)  
+**Live application:** [Launch on Streamlit](https://outreach-sequence-generator-7dcmglcxfnmszlodg8lqre.streamlit.app/)
+
+**Commercial problem:** generic outreach sequences ignore account value, engagement, language and timing.
+
+**What it does:**
+- adaptive commercial priority
+- dynamic cadence
+- recommended channel
+- multilingual outreach
+- follow-up intelligence
+- revenue-risk visibility
+- optional AI-assisted message generation
+
+**Role in the portfolio:** **ENGAGE**
 
 ---
 
-## Strategic Frameworks
-**Repo:** [bd-frameworks-and-playbooks](link)
-Playbooks and operational frameworks for BD teams working
-in emerging markets and cross-border environments.
+## 3. Partnership Opportunity Intelligence
+
+**Repository:** [Eambrosin/partnership-opportunity-finder](https://github.com/Eambrosin/partnership-opportunity-finder)  
+**Live application:** [Launch on Streamlit](https://partnership-opportunity-finder-eambrosin.streamlit.app/)
+
+**Commercial problem:** partnership decisions are often based on fragmented information and inconsistent criteria.
+
+**What it does:**
+- configurable partnership scoring
+- explainable weighted logic
+- strategic fit assessment
+- partnership archetypes
+- execution-feasibility analysis
+- recommended partnership models
+- recommended next actions
+- downloadable opportunity briefs
+
+**Role in the portfolio:** **PARTNER**
+
+---
+
+## 4. AI Business Development Toolkit
+
+**Repository:** [Eambrosin/AI-Business-Development-Toolkit](https://github.com/Eambrosin/AI-Business-Development-Toolkit)
+
+Central hub showing how the applications can work as one Commercial Intelligence lifecycle:
+
+```text
+IDENTIFY
+   ↓
+PRIORITIZE
+Lead Qualification
+   ↓
+ENGAGE
+Adaptive Outreach
+   ↓
+PARTNER
+Partnership Intelligence
+   ↓
+EXPAND
+Market Entry Intelligence
+```
+
+The **EXPAND** layer remains intentionally marked as *In Development* until it reaches the same level of maturity as the three live applications.
+
+---
+
+## 5. Business Development Frameworks & Playbooks
+
+**Repository:** [Eambrosin/bd-frameworks-and-playbooks](https://github.com/Eambrosin/bd-frameworks-and-playbooks)
+
+Methodological foundation for:
+- GTM strategy
+- strategic partnerships
+- market entry
+- opportunity prioritization
+- international expansion
+- commercial decision support
+
+---
+
+## Professional Context Behind the Portfolio
+
+The tools are informed by practical commercial experience across:
+
+- **USD 4M+ in contract value secured**
+- **USD 1.8M in total revenue generated through Seleto Solar**
+- public-sector procurement and B2G sales
+- international trade and commodity brokerage
+- international sourcing
+- multilingual consultative sales
+- CRM and pipeline management
+- strategic partnerships
+- LATAM, Europe and MENA
+
+The portfolio is not intended to reposition me as a software engineer. It demonstrates how I use technology, structured data and AI to improve **commercial execution and decision-making**.
 
 ---
 
 ## Target Roles
-Business Development Manager · Strategic Partnerships ·
-GTM Strategy · Revenue Operations · International Expansion
+
+Business Development Manager · Senior Business Development · Strategic Partnerships · GTM · Commercial Operations · International Expansion · Export / Area Management
+
+---
 
 ## Contact
-[LinkedIn](https://linkedin.com/in/eduardoambrosin)
+
+**LinkedIn:** [linkedin.com/in/eduardoambrosin](https://linkedin.com/in/eduardoambrosin)  
+**Professional website:** [ambrosinlegaltrade.com](https://www.ambrosinlegaltrade.com/)  
+**GitHub:** [github.com/Eambrosin](https://github.com/Eambrosin)
