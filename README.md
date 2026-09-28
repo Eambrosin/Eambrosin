@@ -23,9 +23,9 @@
 | | |
 |---|---|
 | **10+ years** | Commercial & Business Development experience |
-| **USD 4M+** | Revenue generated |
-| **USD 3M+** | Public-sector contracts secured |
-| **1,000+** | Employees supported through operations under my leadership |
+| **USD 4M+** | Contract value secured |
+| **USD 1.8M** | Total revenue generated through Seleto Solar |
+| **1,000+** | People employed cumulatively across seven years of multi-site operations |
 | **4 business languages** | Portuguese · English · Italian · Spanish |
 | **3 live applications** | Commercial Intelligence tools built around real BD workflows |
 
@@ -831,9 +831,9 @@ This experience informs the **PARTNER** layer of the portfolio.
 
 ## Public-Sector Business Development
 
-Over seven years in an executive role, I secured **USD 3M+ in government contracts** through procurement, negotiation and relationship development.
+Over seven years in an executive role, I secured **USD 4M+ in total contract value**, including **USD 3M+ in government contracts** and **USD 1M+ in private-sector contracts**, through procurement, negotiation and relationship development.
 
-The operation supported **1,000+ employees across 15 cities**, while the active contract portfolio expanded by approximately **40%**.
+Across seven years, the multi-site operations employed **1,000+ people cumulatively across 15 cities**, while the active contract portfolio expanded by approximately **40%**.
 
 This experience contributed to my understanding of:
 
@@ -849,7 +849,7 @@ This experience contributed to my understanding of:
 
 ## Renewable Energy & International Sourcing
 
-As founder and Business Director of a solar-energy company, I helped build the business from zero to **USD 1M+ in revenue within 18 months**.
+As founder and Business Director of a solar-energy company, I built the business to **USD 1.8M in total revenue**, exceeding **USD 1M within the first 18 months**.
 
 The work included:
 
@@ -875,7 +875,7 @@ International Trade is an important part of my current professional positioning.
 
 Areas of experience include:
 
-- commodities
+- physical commodity brokerage involving Brazilian sugar, coffee and beef suppliers and international buyers
 - buyer / seller origination
 - international suppliers
 - international buyers
