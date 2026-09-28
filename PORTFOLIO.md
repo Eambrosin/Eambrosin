@@ -10,6 +10,25 @@ They translate commercial judgment into structured, explainable workflows that h
 
 ---
 
+## 0. Opportunity Discovery Intelligence
+
+**Project:** [Opportunity Discovery Intelligence](https://github.com/Eambrosin/AI-Business-Development-Toolkit/tree/main/opportunity-discovery-intelligence)  
+**Status:** MVP — deployment pending
+
+**Commercial problem:** the team knows the market it wants to pursue but does not yet have a structured target-account list.
+
+**What it does:**
+- adapts discovery to industry, geography, business model, company size and keywords
+- screens sample, CSV or optional public-web sources
+- separates Discovery Score from evidence Confidence
+- preserves source URLs and evidence snippets
+- flags unknown information for validation
+- exports a qualification handoff template
+
+**Role in the portfolio:** **IDENTIFY**
+
+---
+
 ## 1. Lead Qualification & Revenue Prioritization
 
 **Repository:** [Eambrosin/lead-qualification-scorer](https://github.com/Eambrosin/lead-qualification-scorer)  
