@@ -36,9 +36,9 @@ My primary background is **commercial**, not software engineering. This GitHub s
 
 ## 00 — IDENTIFY
 
-### [Opportunity Discovery Intelligence](https://github.com/Eambrosin/AI-Business-Development-Toolkit/tree/main/opportunity-discovery-intelligence)
+### [Opportunity Discovery Intelligence](https://github.com/Eambrosin/opportunity-discovery-intelligence)
 
-[![Opportunity Discovery CI](https://github.com/Eambrosin/AI-Business-Development-Toolkit/actions/workflows/opportunity-discovery-ci.yml/badge.svg)](https://github.com/Eambrosin/AI-Business-Development-Toolkit/actions/workflows/opportunity-discovery-ci.yml)
+[![Opportunity Discovery CI](https://github.com/Eambrosin/opportunity-discovery-intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/Eambrosin/opportunity-discovery-intelligence/actions/workflows/ci.yml)
 
 **MVP — deployment pending.**
 
