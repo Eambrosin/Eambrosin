@@ -12,7 +12,7 @@ They translate commercial judgment into structured, explainable workflows that h
 
 ## 0. Opportunity Discovery Intelligence
 
-**Project:** [Opportunity Discovery Intelligence](https://github.com/Eambrosin/AI-Business-Development-Toolkit/tree/main/opportunity-discovery-intelligence)  
+**Project:** [Opportunity Discovery Intelligence](https://github.com/Eambrosin/opportunity-discovery-intelligence)  
 **Status:** MVP — deployment pending
 
 **Commercial problem:** the team knows the market it wants to pursue but does not yet have a structured target-account list.
