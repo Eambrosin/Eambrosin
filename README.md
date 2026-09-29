@@ -57,7 +57,8 @@ A configurable, evidence-aware target-account discovery application that adapts 
 - optional evidence-aware AI brief
 - public LinkedIn contact intelligence from indexed web evidence
 - territory intelligence for field sales, including Lombardia, Veneto and Trentino-Alto Adige
-- Account Opportunity and Contact Readiness scoring
+- selective Account Enrichment for direct websites, public business contacts and field-visit evidence
+- Account Opportunity, Account Data Completeness and Contact Readiness scoring
 - direct handoffs to qualification and outreach
 
 **Business question:** *Which companies should enter the commercial pipeline — and what evidence supports that decision?*
