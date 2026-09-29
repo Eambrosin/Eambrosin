@@ -28,7 +28,7 @@ My primary background is **commercial**, not software engineering. This GitHub s
 | **USD 1.8M** | Total revenue generated through Seleto Solar |
 | **1,000+** | People employed cumulatively across seven years of multi-site operations |
 | **4 business languages** | Portuguese · English · Italian · Spanish |
-| **3 live applications + 1 discovery MVP** | Commercial Intelligence tools built around real BD workflows |
+| **4 live applications** | Integrated Commercial Intelligence tools built around real BD workflows |
 
 ---
 
@@ -40,11 +40,12 @@ My primary background is **commercial**, not software engineering. This GitHub s
 
 [![Opportunity Discovery CI](https://github.com/Eambrosin/opportunity-discovery-intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/Eambrosin/opportunity-discovery-intelligence/actions/workflows/ci.yml)
 
-**MVP — deployment pending.**
+**Live application — v1.0.**
 
 A configurable, evidence-aware target-account discovery application that adapts lead generation to a specific market profile.
 
 **Core capabilities**
+- multi-segment market profiles plus fully custom configuration
 - target industry, geography and business-model configuration
 - required and excluded keyword logic
 - company-size preferences
@@ -54,6 +55,8 @@ A configurable, evidence-aware target-account discovery application that adapts 
 - evidence preservation and unknown-information tracking
 - qualification handoff template
 - optional evidence-aware AI brief
+- public LinkedIn contact intelligence from indexed web evidence
+- direct handoffs to qualification and outreach
 
 **Business question:** *Which companies should enter the commercial pipeline — and what evidence supports that decision?*
 
@@ -133,24 +136,21 @@ A deterministic and explainable decision-support platform for evaluating strateg
 # Connected Commercial Intelligence Workflow
 
 ```text
-IDENTIFY
-Opportunity Discovery
-       ↓
-PRIORITIZE
-Lead Qualification & Revenue Prioritization
-       ↓
-ENGAGE
-Adaptive Outreach Intelligence
-       ↓
-PARTNER
-Partnership Opportunity Intelligence
-       ↓
-EXPAND
-Global Market Entry Intelligence
+ACCOUNT DEVELOPMENT
+IDENTIFY → PRIORITIZE → ENGAGE
+
+PARTNERSHIP DEVELOPMENT
+IDENTIFY / Partner Universe → PARTNER → ENGAGE
+
+BOTH TRACKS
+→ EXPAND
+Global Market Entry / Territory Intelligence
 🚧 In Development
 ```
 
-The first three decision layers are implemented as public applications. The **EXPAND** layer remains explicitly marked as *In Development* until it reaches the same standard of implementation and testing.
+The applications use versioned CSV handoffs and shared market-profile identifiers so commercial context can move between stages without tightly coupling the standalone apps.
+
+The four implemented decision layers are public applications. The **EXPAND** layer remains explicitly marked as *In Development* until it reaches the same standard of implementation and testing.
 
 ---
 
