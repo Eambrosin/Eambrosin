@@ -13,17 +13,19 @@ They translate commercial judgment into structured, explainable workflows that h
 ## 0. Opportunity Discovery Intelligence
 
 **Project:** [Opportunity Discovery Intelligence](https://github.com/Eambrosin/opportunity-discovery-intelligence)  
-**Status:** MVP — deployment pending
+**Status:** Live application — v1.0
 
 **Commercial problem:** the team knows the market it wants to pursue but does not yet have a structured target-account list.
 
 **What it does:**
+- reusable market profiles across Renewable Energy, Agribusiness, Logistics & Trade, Fintech, Real Estate, Government / Public Sector and Medical Aesthetics
 - adapts discovery to industry, geography, business model, company size and keywords
-- screens sample, CSV or optional public-web sources
+- screens sample, CSV or public-web sources
 - separates Discovery Score from evidence Confidence
 - preserves source URLs and evidence snippets
+- finds public LinkedIn contact evidence and practitioner-level leads
 - flags unknown information for validation
-- exports a qualification handoff template
+- exports versioned handoffs to qualification and outreach
 
 **Role in the portfolio:** **IDENTIFY**
 
@@ -94,25 +96,20 @@ They translate commercial judgment into structured, explainable workflows that h
 
 **Repository:** [Eambrosin/AI-Business-Development-Toolkit](https://github.com/Eambrosin/AI-Business-Development-Toolkit)
 
-Central hub showing how the applications can work as one Commercial Intelligence lifecycle:
+Central hub showing how the applications work as one integrated Commercial Intelligence ecosystem with two coordinated tracks:
 
 ```text
-IDENTIFY
-   ↓
-PRIORITIZE
-Lead Qualification
-   ↓
-ENGAGE
-Adaptive Outreach
-   ↓
-PARTNER
-Partnership Intelligence
-   ↓
-EXPAND
-Market Entry Intelligence
+ACCOUNT DEVELOPMENT
+IDENTIFY → PRIORITIZE → ENGAGE
+
+PARTNERSHIP DEVELOPMENT
+IDENTIFY / Partner Universe → PARTNER → ENGAGE
+
+BOTH TRACKS → EXPAND
+Market / Territory Intelligence
 ```
 
-The **EXPAND** layer remains intentionally marked as *In Development* until it reaches the same level of maturity as the three live applications.
+The applications exchange versioned CSV handoffs with shared market-profile identifiers. The **EXPAND** layer remains intentionally marked as *In Development* until it reaches the same level of maturity as the four live applications.
 
 ---
 
