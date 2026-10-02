@@ -15,8 +15,8 @@ Business Development professional with 10+ years of experience across B2B/B2G sa
 
 ## Commercial Results
 
-- **USD 3M+ in public-sector contracts** — Executive Director, Port Service | **Feb 2017–Jul 2024**
-- **USD 1M+ revenue in the first 18 months** — Founder & Business Director, Seleto Solar | **Sep 2021–Jul 2024**
+- **USD 4M+ total secured contract value**, including **USD 3M+ in public-sector contracts** — Executive Director, Port Service | **Feb 2017–Jul 2024**
+- **USD 1.8M total revenue**, including **USD 1M+ in the first 18 months** — Founder & Business Director, Seleto Solar | **Sep 2021–Jul 2024**
 - **1,000+ people across 15 cities** — multi-site operations led at Port Service | **Feb 2017–Jul 2024**
 
 My primary background is commercial. This GitHub demonstrates how I use structured data, explainable logic and AI to solve Business Development problems.
