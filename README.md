@@ -15,9 +15,9 @@ Business Development professional with 10+ years of experience across B2B/B2G sa
 
 ## Commercial Results
 
-- **USD 4M+** in secured contract value across public- and private-sector business
-- **USD 1.8M** in total revenue generated through Seleto Solar, including **USD 1M+ in the first 18 months**
-- **1,000+ people** employed cumulatively across seven years of multi-site operations in **15 cities**
+- **USD 3M+ in public-sector contracts** — Executive Director, Port Service | **Feb 2017–Jul 2024**
+- **USD 1M+ revenue in the first 18 months** — Founder & Business Director, Seleto Solar | **Sep 2021–Jul 2024**
+- **1,000+ people across 15 cities** — multi-site operations led at Port Service | **Feb 2017–Jul 2024**
 
 My primary background is commercial. This GitHub demonstrates how I use structured data, explainable logic and AI to solve Business Development problems.
 
@@ -129,7 +129,7 @@ AI supports research, interpretation and communication. It does not silently rep
 
 ## What I Am Looking For
 
-International Business Development, Strategic Partnerships, GTM / Market Entry, Commercial Operations and international expansion roles where cross-border commercial execution and structured Commercial Intelligence are useful.
+Open to **International Business Development, Strategic Partnerships and GTM / Market Expansion** roles where cross-border commercial execution and structured Commercial Intelligence are useful.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/eduardoambrosin/) · [ambrosinlegaltrade.com](https://www.ambrosinlegaltrade.com/)
 
