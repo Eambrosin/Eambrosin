@@ -29,8 +29,6 @@ My primary background is commercial. This GitHub demonstrates how I use structur
 
 **Business problem:** Which accounts should enter the commercial pipeline — and what evidence supports that decision?
 
-[![Discovery Preview](https://raw.githubusercontent.com/Eambrosin/opportunity-discovery-intelligence/main/screenshots/01-discovery-summary.png)](https://github.com/Eambrosin/opportunity-discovery-intelligence)
-
 Evidence-aware target-account discovery with public-web research, explainable scoring, account enrichment, territory intelligence, public-contact validation and qualification handoffs.
 
 **[Live Demo](https://opportunity-discovery-intelligence-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/opportunity-discovery-intelligence)**
