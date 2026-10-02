@@ -57,7 +57,7 @@ Configurable ICP scoring, explainable commercial prioritization, revenue context
 
 Transforms qualification context into channel-aware, multilingual, qualification-first or priority-based outreach while keeping internal scoring out of prospect-facing copy.
 
-**[Live Demo](https://outreach-sequence-generator-7dcmglcxfnmszlodg8lqre.streamlit.app/) · [Repository](https://github.com/Eambrosin/outreach-sequence-generator)**
+**[Live Demo](https://outreach-sequence-generator-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/outreach-sequence-generator)**
 
 ---
 
