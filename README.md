@@ -27,11 +27,11 @@ My primary background is commercial. This GitHub demonstrates how I use structur
 
 ## 00 — IDENTIFY · Opportunity Discovery Intelligence
 
-**Business problem:** Which accounts should enter the commercial pipeline — and what evidence supports that decision?
+**Business problem:** For a defined commercial mandate, which buyers or partners deserve investigation — and what evidence supports that decision?
 
 [![Discovery Preview](https://raw.githubusercontent.com/Eambrosin/opportunity-discovery-intelligence/main/screenshots/01-discovery-summary.png)](https://github.com/Eambrosin/opportunity-discovery-intelligence)
 
-Sector-adaptive target-account discovery with public-web research, explainable scoring, account enrichment, territory intelligence, public-contact validation and qualification handoffs. Current use cases include photovoltaic C&I end-customer discovery and Medicina Estetica.
+Mandate-driven buyer / partner discovery with public-web research, explainable scoring, trade-feasibility context, account enrichment and qualification handoffs. Current use cases include photovoltaic C&I, Europe → Brazil industrial machinery, Brazil → Europe specialty coffee and Medicina Estetica.
 
 **[Live Demo](https://opportunity-discovery-intelligence-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/opportunity-discovery-intelligence)**
 
@@ -39,11 +39,11 @@ Sector-adaptive target-account discovery with public-web research, explainable s
 
 ## 01 — PRIORITIZE · Lead Qualification & Revenue Prioritization
 
-**Business problem:** Which opportunities deserve attention first — and why?
+**Business problem:** Which counterparties deserve commercial attention first within this mandate — and why?
 
 [![Prioritization Preview](https://raw.githubusercontent.com/Eambrosin/lead-qualification-scorer/main/screenshots/v2-prioritization-engine.png)](https://github.com/Eambrosin/lead-qualification-scorer)
 
-Configurable ICP scoring, explainable commercial prioritization, revenue context and recommended next actions.
+Counterparty qualification using configurable ICP scoring, upstream evidence, commercial priority, revenue context and recommended next actions.
 
 **[Live Demo](https://lead-qualification-scorer-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/lead-qualification-scorer)**
 
@@ -51,11 +51,11 @@ Configurable ICP scoring, explainable commercial prioritization, revenue context
 
 ## 02 — ENGAGE · Adaptive Outreach Intelligence
 
-**Business problem:** How should we engage this opportunity, through which available channel and with what level of intensity?
+**Business problem:** How do we move from first contact to qualified dialogue, active opportunity and a disciplined next action?
 
 [![Outreach Preview](https://raw.githubusercontent.com/Eambrosin/outreach-sequence-generator/main/screenshots/v2-generated-sequence.png)](https://github.com/Eambrosin/outreach-sequence-generator)
 
-Transforms qualification context into channel-aware, multilingual, qualification-first or priority-based outreach while keeping internal scoring out of prospect-facing copy.
+Transforms mandate and qualification context into multilingual outreach, follow-up, Business Development execution, Commercial Deal Sheets and operational mandate reporting.
 
 **[Live Demo](https://outreach-sequence-generator-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/outreach-sequence-generator)**
 
@@ -63,11 +63,11 @@ Transforms qualification context into channel-aware, multilingual, qualification
 
 ## 03 — PARTNER · Partnership Intelligence
 
-**Business problem:** Which strategic partnerships should we prioritize — and what partnership model makes sense?
+**Business problem:** Which route-to-market partners can create access and realistically support execution?
 
 [![Partnership Preview](https://raw.githubusercontent.com/Eambrosin/partnership-opportunity-finder/main/screenshots/06-partnership-workspace.png)](https://github.com/Eambrosin/partnership-opportunity-finder)
 
-Explainable partnership scoring, market-access signals, partnership archetypes, execution feasibility and recommended next actions.
+Explainable partner scoring, market-access signals, route-to-market due diligence, technical / after-sales capability, execution feasibility and recommended next actions.
 
 **[Live Demo](https://partnership-opportunity-finder-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/partnership-opportunity-finder)**
 
@@ -76,17 +76,27 @@ Explainable partnership scoring, market-access signals, partnership archetypes, 
 ## The Workflow
 
 ```text
-ACCOUNT DEVELOPMENT
-IDENTIFY → PRIORITIZE → ENGAGE
-
-PARTNERSHIP DEVELOPMENT
-IDENTIFY / Partner Universe → PARTNER → ENGAGE
+COMMERCIAL MANDATE
+Client · Corridor · Product · Objective · Buyers / Partners
+        ↓
+IDENTIFY
+Buyer / Partner Universe + Market-Entry Evidence
+        ↓
+PRIORITIZE and/or PARTNER
+Counterparty Priority + Route-to-Market Readiness
+        ↓
+ENGAGE / EXECUTE
+Outreach → Dialogue → Follow-Up → Opportunity
+        ↓
+COMMERCIAL DEAL SHEET
+        ↓
+MANDATE REPORTING
 
 ROADMAP
 Market Expansion Intelligence
 ```
 
-The applications use portable CSV handoffs and explicit evidence states so commercial context can move downstream without silently converting unknown information into fact.
+The applications share a portable Commercial Mandate and explicit evidence states so buyer, partner, trade-feasibility and negotiation context can move downstream without silently converting unknown information into fact.
 
 ---
 
