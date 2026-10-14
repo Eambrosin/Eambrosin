@@ -31,7 +31,7 @@ My primary background is commercial. This GitHub demonstrates how I use structur
 
 [![Discovery Preview](https://raw.githubusercontent.com/Eambrosin/opportunity-discovery-intelligence/main/screenshots/01-discovery-summary.png)](https://github.com/Eambrosin/opportunity-discovery-intelligence)
 
-Mandate-driven buyer / partner discovery with public-web research, explainable scoring, trade-feasibility context, account enrichment and qualification handoffs. Current use cases include photovoltaic C&I, Europe → Brazil industrial machinery, Brazil → Europe specialty coffee and Medicina Estetica.
+Mandate-driven buyer / partner discovery with public-web research, explainable scoring, buyer / route-to-market / technical-partner role separation, trade-feasibility context, account enrichment and qualification handoffs. Current use cases include photovoltaic C&I, Europe → Brazil industrial machinery, Brazil → Europe specialty coffee and Medicina Estetica.
 
 **[Live Demo](https://opportunity-discovery-intelligence-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/opportunity-discovery-intelligence)**
 
@@ -55,7 +55,7 @@ Counterparty qualification using configurable ICP scoring, upstream evidence, co
 
 [![Outreach Preview](https://raw.githubusercontent.com/Eambrosin/outreach-sequence-generator/main/screenshots/v2-generated-sequence.png)](https://github.com/Eambrosin/outreach-sequence-generator)
 
-Transforms mandate and qualification context into multilingual outreach, follow-up, Business Development execution, Commercial Deal Sheets and operational mandate reporting.
+Transforms mandate and qualification context into multilingual outreach, follow-up, Business Development execution, Commercial Deal Sheets, mandate funnel tracking and client-ready operational reporting.
 
 **[Live Demo](https://outreach-sequence-generator-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/outreach-sequence-generator)**
 
@@ -67,7 +67,7 @@ Transforms mandate and qualification context into multilingual outreach, follow-
 
 [![Partnership Preview](https://raw.githubusercontent.com/Eambrosin/partnership-opportunity-finder/main/screenshots/06-partnership-workspace.png)](https://github.com/Eambrosin/partnership-opportunity-finder)
 
-Explainable partner scoring, market-access signals, route-to-market due diligence, technical / after-sales capability, execution feasibility and recommended next actions.
+Explainable partner scoring, market-access signals, route-to-market due diligence, installation / commissioning, spare-parts, field-service and after-sales capability, execution feasibility and recommended next actions.
 
 **[Live Demo](https://partnership-opportunity-finder-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/partnership-opportunity-finder)**
 
