@@ -98,6 +98,8 @@ Market Expansion Intelligence
 
 The applications share a portable Commercial Mandate and explicit evidence states so buyer, partner, trade-feasibility and negotiation context can move downstream without silently converting unknown information into fact.
 
+Each live app now exposes the same **Ambrosin Commercial Mandate Workspace**: active mandate context, current workflow stage, recommended progression and direct navigation across IDENTIFY, PRIORITIZE, PARTNER and ENGAGE.
+
 ---
 
 ## Experience Behind the Tools
