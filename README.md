@@ -7,7 +7,7 @@
 Business Development professional with 10+ years of experience across B2B/B2G sales, international trade, renewable energy, public-sector contracts and cross-border commercial execution.
 
 > **Business first. Technology as leverage.**  
-> I build practical Commercial Intelligence systems to make market entry, account prioritization, partner development and commercial execution more structured, explainable and actionable.
+> After earning a certification in **AI applied to Business from The Wharton School, University of Pennsylvania**, I began applying AI, structured data and explainable decision models to real Business Development challenges. That practical application evolved into the Commercial Intelligence portfolio presented below.
 
 [LinkedIn](https://www.linkedin.com/in/eduardoambrosin/) · [Commercial Intelligence Portfolio](https://github.com/Eambrosin/AI-Business-Development-Toolkit)
 
