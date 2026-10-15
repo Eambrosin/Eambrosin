@@ -1,15 +1,15 @@
 # Eduardo Ambrosin
 
-### International Business Development | Strategic Partnerships | GTM | Commercial Intelligence
+### International Business Development | Strategic Partnerships | GTM & Market Expansion | Commercial Intelligence
 
 **LATAM · Europe · MENA | Portuguese · English · Italian · Spanish**
 
 Business Development professional with 10+ years of experience across B2B/B2G sales, international trade, renewable energy, public-sector contracts and cross-border commercial execution.
 
 > **Business first. Technology as leverage.**  
-> I build practical Commercial Intelligence tools to improve how teams identify target accounts, prioritize opportunities, engage prospects and evaluate partnerships.
+> I build practical Commercial Intelligence systems to make market entry, account prioritization, partner development and commercial execution more structured, explainable and actionable.
 
-[LinkedIn](https://www.linkedin.com/in/eduardoambrosin/) · [Professional Website](https://www.ambrosinlegaltrade.com/)
+[LinkedIn](https://www.linkedin.com/in/eduardoambrosin/) · [Commercial Intelligence Portfolio](https://github.com/Eambrosin/AI-Business-Development-Toolkit)
 
 ---
 
@@ -19,86 +19,144 @@ Business Development professional with 10+ years of experience across B2B/B2G sa
 - **USD 1.8M total revenue**, including **USD 1M+ in the first 18 months** — Founder & Business Director, Seleto Solar | **Sep 2021–Jul 2024**
 - **1,000+ people across 15 cities** — multi-site operations led at Port Service | **Feb 2017–Jul 2024**
 
-My primary background is commercial. This GitHub demonstrates how I use structured data, explainable logic and AI to solve Business Development problems.
+My primary background is commercial. This GitHub shows how I translate Business Development experience into structured decision systems using data, deterministic logic and selective AI assistance.
 
 ---
 
 # Commercial Intelligence Portfolio
 
-## 00 — IDENTIFY · Opportunity Discovery Intelligence
-
-**Business problem:** For a defined commercial mandate, which buyers or partners deserve investigation — and what evidence supports that decision?
-
-[![Discovery Preview](https://raw.githubusercontent.com/Eambrosin/opportunity-discovery-intelligence/main/screenshots/01-discovery-summary.png)](https://github.com/Eambrosin/opportunity-discovery-intelligence)
-
-Mandate-driven buyer / partner discovery with public-web research, explainable scoring, buyer / route-to-market / technical-partner role separation, trade-feasibility context, account enrichment and qualification handoffs. Current use cases include photovoltaic C&I, Europe → Brazil industrial machinery, Brazil → Europe specialty coffee and Medicina Estetica.
-
-**[Live Demo](https://opportunity-discovery-intelligence-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/opportunity-discovery-intelligence)**
-
----
-
-## 01 — PRIORITIZE · Lead Qualification & Revenue Prioritization
-
-**Business problem:** Which counterparties deserve commercial attention first within this mandate — and why?
-
-[![Prioritization Preview](https://raw.githubusercontent.com/Eambrosin/lead-qualification-scorer/main/screenshots/v2-prioritization-engine.png)](https://github.com/Eambrosin/lead-qualification-scorer)
-
-Counterparty qualification using configurable ICP scoring, upstream evidence, commercial priority, revenue context and recommended next actions.
-
-**[Live Demo](https://lead-qualification-scorer-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/lead-qualification-scorer)**
-
----
-
-## 02 — ENGAGE · Adaptive Outreach Intelligence
-
-**Business problem:** How do we move from first contact to qualified dialogue, active opportunity and a disciplined next action?
-
-[![Outreach Preview](https://raw.githubusercontent.com/Eambrosin/outreach-sequence-generator/main/screenshots/v2-generated-sequence.png)](https://github.com/Eambrosin/outreach-sequence-generator)
-
-Transforms mandate and qualification context into multilingual outreach, follow-up, Business Development execution, Commercial Deal Sheets, mandate funnel tracking and client-ready operational reporting.
-
-**[Live Demo](https://outreach-sequence-generator-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/outreach-sequence-generator)**
-
----
-
-## 03 — PARTNER · Partnership Intelligence
-
-**Business problem:** Which route-to-market partners can create access and realistically support execution?
-
-[![Partnership Preview](https://raw.githubusercontent.com/Eambrosin/partnership-opportunity-finder/main/screenshots/06-partnership-workspace.png)](https://github.com/Eambrosin/partnership-opportunity-finder)
-
-Explainable partner scoring, market-access signals, route-to-market due diligence, installation / commissioning, spare-parts, field-service and after-sales capability, execution feasibility and recommended next actions.
-
-**[Live Demo](https://partnership-opportunity-finder-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/partnership-opportunity-finder)**
-
----
-
-## The Workflow
+The portfolio is built around one persistent **Commercial Mandate** shared across four applications.
 
 ```text
 COMMERCIAL MANDATE
-Client · Corridor · Product · Objective · Buyers / Partners
+Client · Corridor · Product · Objective · Buyers / Partners · Route to Market
+        ↓
+Private Shared Workspace
         ↓
 IDENTIFY
-Buyer / Partner Universe + Market-Entry Evidence
+Market Entry & Opportunity Intelligence
         ↓
-PRIORITIZE and/or PARTNER
-Counterparty Priority + Route-to-Market Readiness
+        ├─ Buyer / End Customer → PRIORITIZE → ENGAGE
+        └─ Partner Candidate → PARTNER → ENGAGE
+                                     
+ENGAGE
+Business Development Execution
         ↓
-ENGAGE / EXECUTE
-Outreach → Dialogue → Follow-Up → Opportunity
-        ↓
-COMMERCIAL DEAL SHEET
-        ↓
-MANDATE REPORTING
-
-ROADMAP
-Market Expansion Intelligence
+Qualified Dialogue → Meeting → Opportunity → Deal Sheet → Mandate Reporting
 ```
 
-The applications share a portable Commercial Mandate and explicit evidence states so buyer, partner, trade-feasibility and negotiation context can move downstream without silently converting unknown information into fact.
+Each application has a specific commercial role. The workflow preserves context across stages without turning unknown information into fact.
 
-Each live app now exposes the same **Ambrosin Commercial Mandate Workspace**: active mandate context, current workflow stage, recommended progression and direct navigation across IDENTIFY, PRIORITIZE, PARTNER and ENGAGE.
+---
+
+## 00 — IDENTIFY · Market Entry & Opportunity Intelligence
+
+**Business question:** For this mandate, who could buy or enable market entry, what public evidence supports the hypothesis, and what must still be validated?
+
+**Stable release:** [v2.0.0](https://github.com/Eambrosin/opportunity-discovery-intelligence/releases/tag/v2.0.0)
+
+Key capabilities:
+
+- Commercial Mandate creation and restoration
+- public-web buyer / partner discovery
+- mandate-aware and localized search
+- Account Opportunity and Qualification Readiness
+- buyer / route-to-market / execution-partner role classification
+- account enrichment
+- public decision-maker and contact validation
+- Trade & Market Entry Feasibility context
+- buyer handoff to PRIORITIZE
+- partner handoff to PARTNER
+
+**[Live App](https://opportunity-discovery-intelligence-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/opportunity-discovery-intelligence)**
+
+---
+
+## 01 — PRIORITIZE · Counterparty Qualification & Commercial Priority
+
+**Business question:** Which counterparties deserve commercial attention first within this mandate, why, and where should they go next?
+
+**Stable release:** [v3.0.0](https://github.com/Eambrosin/lead-qualification-scorer/releases/tag/v3.0.0)
+
+Key capabilities:
+
+- configurable ICP scoring
+- deterministic and explainable prioritization
+- upstream-fit and qualification context
+- commercial-priority tiers
+- region, industry, company-size, value and engagement logic
+- optional AI-assisted interpretation
+- role-aware progression:
+  - buyers → ENGAGE
+  - partner candidates → PARTNER
+
+**[Live App](https://lead-qualification-scorer-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/lead-qualification-scorer)**
+
+---
+
+## 02 — PARTNER · Route-to-Market & Partner Intelligence
+
+**Business question:** Which partners can create credible market access and realistically support execution?
+
+**Stable release:** [v3.0.0](https://github.com/Eambrosin/partnership-opportunity-finder/releases/tag/v3.0.0)
+
+Key capabilities:
+
+- explainable partner scoring
+- strategic-fit and market-access assessment
+- Route-to-Market Readiness
+- customer-base and geographic-coverage validation
+- import capability
+- technical service and after-sales capability
+- installation / commissioning and field-service capability
+- financial capacity and management commitment
+- exclusivity / competing-representation validation
+- explicit due-diligence gaps
+- ENGAGE handoff under the same mandate
+
+**[Live App](https://partnership-opportunity-finder-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/partnership-opportunity-finder)**
+
+---
+
+## 03 — ENGAGE · Business Development Execution & Outreach
+
+**Business question:** How should we approach the counterparty, progress the dialogue and convert qualified commercial activity into disciplined execution?
+
+**Stable release:** [v3.0.0](https://github.com/Eambrosin/outreach-sequence-generator/releases/tag/v3.0.0)
+
+Key capabilities:
+
+- qualified buyer / partner pipeline intake
+- adaptive multilingual outreach
+- channel and cadence logic
+- Business Development Execution Log
+- meeting, response and next-action tracking
+- field-visit feedback
+- Commercial Deal Sheet
+- opportunity progression
+- mandate funnel
+- client-ready operational reporting
+- Workspace Snapshot recovery
+
+**[Live App](https://outreach-sequence-generator-eambrosin.streamlit.app/) · [Repository](https://github.com/Eambrosin/outreach-sequence-generator)**
+
+---
+
+## Shared Commercial Mandate Workspace
+
+The four applications operate as a connected workflow rather than isolated demos.
+
+The shared workspace supports:
+
+- private Supabase-backed Commercial Mandate persistence
+- protected Private Workspace Access
+- automatic cross-app restoration through an opaque `mandate_id`
+- active mandate visibility across IDENTIFY, PRIORITIZE, PARTNER and ENGAGE
+- role-aware buyer / partner progression
+- portable JSON and CSV fallback handoffs
+- ENGAGE Workspace Snapshot recovery
+
+This architecture keeps the client, corridor, product, target market and commercial objective attached as work moves downstream.
 
 ---
 
@@ -108,41 +166,43 @@ My commercial background includes:
 
 - **B2G / public procurement:** contract development, bids, multi-site operations and public-sector execution
 - **Renewable energy:** founded and scaled a solar business; led B2B sales and international PV sourcing
-- **International trade:** buyer/seller origination and commodity transactions connecting Brazil with international markets
+- **International trade:** buyer / seller origination and cross-border commercial transactions
 - **Cross-border BD:** multilingual sales, partnerships, GTM and market-expansion work across LATAM, Europe and MENA
-- **Legal background:** Brazilian-qualified lawyer; useful for contracts, procurement, negotiation and cross-border commercial risk
+- **Legal background:** Brazilian-qualified lawyer, supporting stronger contract, procurement, negotiation and commercial-risk judgment
 
 ---
 
 ## Method
 
 ```text
+COMMERCIAL EXPERIENCE
+        +
 STRUCTURED DATA
-      +
-DETERMINISTIC COMMERCIAL LOGIC
-      +
+        +
+DETERMINISTIC LOGIC
+        +
 EXPLAINABLE OUTPUTS
-      +
-OPTIONAL AI ASSISTANCE
-      +
+        +
+SELECTIVE AI ASSISTANCE
+        +
 HUMAN JUDGMENT
 ```
 
-AI supports research, interpretation and communication. It does not silently replace commercial logic or turn missing evidence into certainty.
+AI supports research, interpretation and communication. It does not silently determine commercial scores, invent missing evidence or replace Business Development judgment.
 
 ---
 
 ## Frameworks & Portfolio Hub
 
-- [AI Business Development Toolkit](https://github.com/Eambrosin/AI-Business-Development-Toolkit) — ecosystem architecture and shared commercial-intelligence workflow
+- [AI Business Development Toolkit](https://github.com/Eambrosin/AI-Business-Development-Toolkit) — architecture, shared workflow and Commercial Intelligence ecosystem
 - [Business Development Frameworks & Playbooks](https://github.com/Eambrosin/bd-frameworks-and-playbooks) — GTM, partnerships, market entry and experience-based commercial playbooks
 
 ---
 
 ## What I Am Looking For
 
-Open to **International Business Development, Strategic Partnerships and GTM / Market Expansion** roles where cross-border commercial execution and structured Commercial Intelligence are useful.
+Open to **International Business Development, Strategic Partnerships, GTM and Market Expansion** roles where cross-border commercial execution, market-entry judgment and structured Commercial Intelligence can create leverage.
 
-**Contact:** [LinkedIn](https://www.linkedin.com/in/eduardoambrosin/) · [ambrosinlegaltrade.com](https://www.ambrosinlegaltrade.com/)
+**Contact:** [LinkedIn](https://www.linkedin.com/in/eduardoambrosin/)
 
 > **Commercial experience provides the judgment. Structured data provides consistency. Technology provides leverage.**
